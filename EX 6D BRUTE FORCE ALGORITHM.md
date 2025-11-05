@@ -1,6 +1,5 @@
 # EX 6D BRUTE FORCE ALGORITHM
 
-## DATE :
 
 ## AIM :
 
@@ -23,8 +22,8 @@ To create a python program using brute force method of searching for the given s
 ## Program:
 
 ```
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 ```
 ```
 import re
