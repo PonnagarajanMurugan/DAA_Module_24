@@ -1,5 +1,4 @@
 # EX 6C TRAVELLING SALES MAN PROBLEM
-## DATE:  
 ## AIM:
 To Solve Travelling Sales man Problem for the following graph.
 
@@ -19,8 +18,8 @@ To Solve Travelling Sales man Problem for the following graph.
 
 ## Program :
 ```
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 ```
 ```
 def tsp_cost(tsp):
