@@ -1,5 +1,4 @@
 # EX 6B KNAPSACK PROBLEM
-## DATE:
 ## AIM:
 To demonstrate a python program using dynamic programming for 0/1 knapsack problem.
 
@@ -14,8 +13,8 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 
 ## Program:
 ```
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 ```
 ```
 def knapSack(W, wt, val, n):
