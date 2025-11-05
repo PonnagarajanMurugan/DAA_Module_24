@@ -1,7 +1,5 @@
 # EX 6A CHERRY PICK UP PROBLEM
 
-## DATE : 
-
 ## AIM :
 
 To Create a python program for the following problem statement.
@@ -26,8 +24,8 @@ If there is no valid path between (0, 0) and (n - 1, n - 1), then no cherries ca
 ## Program :
 
 ```
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 ```
 
 ```
